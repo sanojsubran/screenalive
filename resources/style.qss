@@ -1,0 +1,4 @@
+QMainWindow, QLabel { background-color: rgbb( 26, 26, 26); color: rgb( 200, 200, 200 ) }
+QPushButton { background-color: rgb( 32, 32 ,32); color:rgb( 200, 200, 200 ) }
+QPushButton:disabled { color: rgb( 50, 50, 50 ) }
+#countDownLabel { color: rgb( 0, 191, 255 ) }
