@@ -1,8 +1,10 @@
-# vigilante
+# screenalive
+
 A simple utility for windows, to prevent the desktop screen from going idle. The program is built using Qt 5.4 framework.
 
-
 Tested in Windows 7 OS
+
+[Not maintained anymore]
 
 Dependency DLLs
 ===============
